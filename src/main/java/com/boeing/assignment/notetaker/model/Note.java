@@ -1,6 +1,12 @@
 package com.boeing.assignment.notetaker.model;
 
 
+/**
+ * A POJO which represents one NOTE.
+ * @author dilla
+ *
+ */
+
 public class Note {
 
 	String noteId;
