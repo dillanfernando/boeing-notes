@@ -18,4 +18,6 @@ There are two ways to run the project.
   
   # Angular Components.
   The angular project is locates the boeing-notes-angular repository
+  https://github.com/dillanfernando/boeing-notes-angular
+  
   
